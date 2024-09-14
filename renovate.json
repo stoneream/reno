@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "config:recommended"
+  ],
+  "postUpdateOptions": [
+    "gomodTidy"
+  ],
+  "packageRules": [
+    {
+      "matchCategories": [
+        "golang"
+      ],
+      "enabled": true
+    }
+  ],
+  "repositories": [
+    {
+      "repository": "stoneream/diary-generator"
+    }
+  ]
+}
