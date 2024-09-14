@@ -17,5 +17,7 @@
     {
       "repository": "stoneream/diary-generator"
     }
-  ]
+  ],
+  "branchPrefix": "renovate/",
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>"
 }
