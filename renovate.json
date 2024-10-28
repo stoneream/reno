@@ -16,6 +16,9 @@
   "repositories": [
     {
       "repository": "stoneream/diary-generator"
+    },
+    {
+      "repository": "stoneream/discord-notifier"
     }
   ],
   "branchPrefix": "renovate/",
